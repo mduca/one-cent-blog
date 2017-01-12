@@ -1,0 +1,12 @@
+name: Michael Manduca 
+markdown: kramdown
+highligther: pygments
+timezone: PST 
+exclude: ['Gemfile', 'Gemfile.lock', '*.sublime-*', 'lib','vendor', 'Rakefile', 's3_website.yml']
+relative_permalinks: false
+url: Http://michael.mandu.ca
+author: Michael 
+gems:
+    - jekyll-feed
+sass:
+  style: compressed
