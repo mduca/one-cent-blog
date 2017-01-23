@@ -11,6 +11,7 @@ Thanks goes out to [Hugo Tunius - the-one-cent-blog post]("https://hugotunius.se
 
 Look out for new posts on my recent projects:
 
+Amazon Echo Websocket Project
 Arduino GPRS Guatemala Sensor project.
 Wemos (esp8266) LiPo Temp sensor Project.
 Custom Micro Drone build out.
